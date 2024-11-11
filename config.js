@@ -14,13 +14,13 @@ JANGAN LUPA SUPPORT
 
 global.prefa = ['','!','.',',','🐤','🗿'] 
 // Setting Contact
-global.namaown = "Dark-Love-MD X Crash Bug Bot"
-global.namabot = "Dark-Love-MD X Crash Bug Bot"
+global.namaown = "𝔹ℍ𝔸𝔻-𝔹𝕆𝕀-𝕄𝔻 X Crash Bug Bot"
+global.namabot = "𝔹ℍ𝔸𝔻-𝔹𝕆𝕀-𝕄𝔻 X Crash Bug Bot"
 global.versisc = "10.0"
-global.owner = ["234812244124"]
+global.owner = ["2𝟝𝟜𝟟𝟜𝟚𝟙𝟠𝟛𝟙𝟘𝟘"]
 global.tele = "https://t.me/darklovemd"
 global.url = "https://www.youtube.com"
-global.namastore = "Dark-Love-MD V2 X Crash Bug Bot"
+global.namastore = "𝔹ℍ𝔸𝔻-𝔹𝕆𝕀-𝕄𝔻 V2 X Crash Bug Bot"
 
 // Global Simbol
 global.simbol = "ᯤ"
